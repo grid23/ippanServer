@@ -3,6 +3,7 @@ node_modules/
 archive/
 .npmrc
 .nvmrc
+yarn.lock
 
 #svn
 .svn/
