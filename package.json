@@ -1,13 +1,12 @@
 {
-    "name": "ippanServer"
-  , "version": "0.0.1"
-  , "contributors" : [
+    "name": "ippanServer",
+    "version": "0.0.1",
+    "contributors": [
         "benjamin Moulin <hello@grid23.net>"
-    ]
-
-  , "main": "./index.js"
-
-  , "dependencies": {
-        "ippankiban": "https://github.com/grid23/ippankibanJS.git"
+    ],
+    "main": "./index.js",
+    "dependencies": {
+        "ippankiban": "https://github.com/grid23/ippankibanJS.git",
+        "phantomjs2": "^2.2.0"
     }
 }
