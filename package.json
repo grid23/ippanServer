@@ -1,15 +1,15 @@
 {
-    "name": "ippanserver",
-    "version": "0.0.2",
-    "contributors": [
-        "Grid23 <hello@grid23.net>"
-    ],
-    "engines": {
-        "nodejs": "^6.9.0"
-    },
-    "main": "./index.js",
-    "dependencies": {
-        "ippankiban": "^0.1.0",
-        "phantomjs2": "^2.2.0"
-    }
+  "name": "ippanserver",
+  "version": "0.0.3",
+  "contributors": [
+    "Grid23 <hello@grid23.net>"
+  ],
+  "engines": {
+    "nodejs": "^6.9.0"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "ippankiban": "^0.1.0",
+    "phantomjs2": "^2.2.0"
+  }
 }
