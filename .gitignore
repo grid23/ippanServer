@@ -1,3 +1,7 @@
+# project
+.work/
+
+
 # node
 node_modules/
 archive/
