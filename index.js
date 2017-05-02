@@ -2,7 +2,6 @@
 
 module.exports = {
     folder: require("./lib/folder").folder
-  , AvailablePort: require("./lib/AvailablePort").AvailablePort
   , Mime: require("./lib/Mime").Mime
   , PhantomSandbox: require("./lib/PhantomSandbox").PhantomSandbox
   , PhantomTask: require("./lib/PhantomTask").PhantomTask
