@@ -9,7 +9,7 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "ippankiban": "0.1.*",
+    "ippankiban": "^0.2.0",
     "phantomjs2": "^2.2.0"
   }
 }
